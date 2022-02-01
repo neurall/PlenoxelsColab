@@ -9,8 +9,12 @@ Github: https://github.com/sxyu/svox2
 Website and video: https://alexyu.net/plenoxels
 arXiv: https://arxiv.org/abs/2112.05131
 
-I was just thinking UE5 nanite conversion anyone ? ;D I guess marching cubes ?
-Just thing about the possibilities from bunch of mobile photos straight to realtime VR experience?
+Their achievement of shortening training from days to minutes is nothing short of extreaordinary. Incredible feat and wonderfull insight.
+
+But due to recent shortage of gpus on market simple instant and easily accesible GPU cloud based workflow seems to be more important to fast research iteration than ever.
+
+Just think about the incredible possibilities this now opens. UE5 nanite conversion anyone ? ;D I guess marching cubes ?
+There are a bilions of mobile phones able to convert bunch of photos straight to one giant photorealistic realtime VR environment pretty much overnight if proper app is made?
 
 This first version seems to work at least on Colab Pro providing 16g gpu and with high mem option enabled(32g ram) to fit and train M60 dataset (Colab Pro is 10$ a month which is price of 1 hamburger)
 
