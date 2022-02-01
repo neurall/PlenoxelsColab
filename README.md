@@ -9,6 +9,8 @@ Github: https://github.com/sxyu/svox2
 Website and video: https://alexyu.net/plenoxels
 arXiv: https://arxiv.org/abs/2112.05131
 
+I was just thinking UE5 nanite conversion anyone ? ;D I guess marching cubes ?
+Just thing about the possibilities from bunch of mobile photos straight to realtime VR experience?
 
 This first version seems to work at least on Colab Pro providing 16g gpu and with high mem option enabled(32g ram) to fit and train M60 dataset (Colab Pro is 10$ a month which is price of 1 hamburger)
 
