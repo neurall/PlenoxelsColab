@@ -1,5 +1,7 @@
 # Plenoxels: Colab version
 
+https://colab.research.google.com/drive/1SODy_HiP_kkjL5E4IiBM1XZsD1HofElZ
+
 This is my neuralll@gmail.com pathetic attempt to make running in colab cloud possible for the wonderfull breakthrough that is Plenoxels made by fantastic team of incredibly talented
 
 # Plenoxels Authors: (Alex Yu * Sara Fridovich-Keil * Matthew Tancik Qinhong Chen Benjamin Recht Angjoo Kanazawa UC Berkeley * Equal contribution)
